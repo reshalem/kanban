@@ -1,5 +1,8 @@
 # kanban
 
+## Firebase Deploy
+[Deploy link](https://kanban-f539c.firebaseapp.com)
+
 ## Project setup
 ```
 npm install
